@@ -1,0 +1,37 @@
+[
+  {
+    "repo": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "starredAt": "2026-10-02"
+  },
+  {
+    "repo": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "description": "The library for web and native user interfaces.",
+    "language": "JavaScript",
+    "starredAt": "2026-09-28"
+  },
+  {
+    "repo": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "starredAt": "2026-09-15"
+  },
+  {
+    "repo": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "description": "The Python programming language",
+    "language": "C",
+    "starredAt": "2026-08-30"
+  },
+  {
+    "repo": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "MDX",
+    "starredAt": "2026-08-11"
+  }
+]
